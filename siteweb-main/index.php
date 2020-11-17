@@ -7,6 +7,12 @@
     <link href="https://fonts.googleapis.com/css2?family=Allura&display=swap" rel="stylesheet">
     <link rel="icon" href="logo.ico"/>
     <script src="https://kit.fontawesome.com/ff64834a9a.js" crossorigin="anonymous"></script>
+     <script src="https://www.google.com/recaptcha/api.js"></script>
+     <script>
+  function onSubmit(token) {
+    document.getElementById("demo-form").submit();
+  }
+</script>
     <title>Lucas Dabout</title>
   </head>
   <body>
