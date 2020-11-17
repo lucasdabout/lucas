@@ -9,7 +9,7 @@
     <div>
       <label class="box_contact_texte" for="msg">Message</label><input type="text" id="msg" name="message" placeholder="Entrez un message (facultatif)" required style="color :grey; font-family:'franklin gothic book', sans-serif; text-align : left; padding-left :8px;"></input>
     </div>
-    <button class="bouton"
+    <button class="g-recaptcha"
         data-sitekey="6Lci7OMZAAAAAPOMpuJPZ7USsQkpDOiLRHAvaaRf"
         data-callback='onSubmit'
         data-action='submit'>Envoyer</button>
