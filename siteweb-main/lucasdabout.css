@@ -5,10 +5,8 @@ body{
 
 .bande_verte{
   height: 250px;
-  width: 100;
   background-color: #43684c;
   height: 250px;
-  width: 100;
   padding-top: 8px;
 }
 
@@ -20,7 +18,7 @@ body{
   width: 200px;
   border-radius: 100px;
   margin: auto;
-  background-image: url("DSC05727.JPG");
+  background-image: url(images/DSC05727.jpg);
   background-size: cover;
   box-shadow: 4px 0px 10px black;
 }
@@ -37,6 +35,7 @@ nav{
   background-color: #43684c;
   height: 50px;
   width: 100%;
+  padding: 0;
 }
 
 ol{
@@ -55,18 +54,36 @@ li{
   color: white;
   line-height: 50px;
   text-align: center;
-  margin: 0;
+  margin-top: 10px;
   font-family: 'franklin gothic book', sans-serif;
   font-size: 20px;
-  padding: 8px;
-  letter-spacing: 1px;
+  padding: 10px;
+  letter-spacing: 2px;
+}
+
+
+.texte_barre_de_navigation:hover {
+  color: white;
+  background-color: #182125;
+}
+
+.texte_barre_de_navigation_lucas{
+  font-family: 'bebas neue', sans-serif;
+  text-decoration: none;
+  color: black;
+  line-height: 50px;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+  padding: 10px;
+  letter-spacing: 2px;
 }
 
 .LucasDabout{
   padding: 0;
   margin-bottom: 0px;
   margin-top: 70px;
-  margin-right: : 0;
+  margin-right: 0;
   margin-left: 0px;
   font-size: 60px;
   font-family: 'bebas neue', sans-serif;
@@ -91,7 +108,7 @@ li{
 }
 
 .box_apropos__texte{
-  font-family: 'franklin gothic book', sans-serif;
+  font-family: 'Lato', sans-serif;
   margin-top:0px;
   margin-bottom: 0px;
   margin-left: 100px;
@@ -107,10 +124,8 @@ li{
   width: 100%;
   background-color:#43684c ;
   height : auto;
-  text-align:center;
+  text-align: center;
 }
-
-
 
 .progress_bar_html{
   display: inline-block;
@@ -170,7 +185,7 @@ li{
 }
 
 .pourcent_texte{
-  font-family: 'franklin gothic book', sans-serif;
+  font-family: 'lato', sans-serif;
 }
 
 .téléchargement_texte{
@@ -180,7 +195,11 @@ li{
   letter-spacing: 2px;
   font-size: 18px;
   line-height: 50px;
-  font-family: 'franklin gothic book', sans-serif;
+  font-family: 'Lato', sans-serif;
+}
+
+.téléchargement_texte:hover{
+  color: #182125;
 }
 
 .téléchargement{
@@ -189,6 +208,13 @@ width: 30%;
 height: 50px;
 margin: auto;
 text-align: center;
+}
+
+.téléchargement:hover{
+  background-color: white;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #182125;
 }
 
 .box_formation{
@@ -206,14 +232,14 @@ text-align: center;
 .formation_gauche_texte{
   text-align: left;
   line-height: 20px;
-  font-family: 'franklin gothic book', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 .formation_droite_texte{
 text-align: left;
 margin: 0;
 padding: 0;
-font-family: 'franklin gothic book', sans-serif;
+font-family: 'Lato', sans-serif;
 }
 
 .box_contact{
@@ -226,10 +252,32 @@ font-family: 'franklin gothic book', sans-serif;
   background-color: white;
   height : auto;
   text-align:center;
+  background-color: white;
 }
 
 .box_contact_texte{
   letter-spacing: 2px;
+  font-family: 'Lato', sans-serif;
+}
+
+.g-recaptcha{
+  background-color: #182125;
+  border-style: none;
+  color: white;
+  width: 310px;
+  height: 30px;
+  font-size: 20px;
+  text-align: center;
+  line-height: 15px;
+  font-family: 'lato', sans-serif;
+}
+
+.g-recaptcha:hover{
+  background-color: white;
+  color: #182125;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #182125;
 }
 
 #name{
@@ -258,6 +306,19 @@ input{
   margin-right: auto;
   width: 300px;
   height: 20px;
+  display: block;
+}
+
+textarea{
+  text-align:center;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 300px;
+  max-width: 300px;
+  min-height: 60px;
+  max-height: 100px;
   display: block;
 }
 
@@ -297,6 +358,10 @@ input{
   color: #182125;
 }
 
+.fa-angle-down:hover{
+  font-size: 30px;
+}
+
 .fa-arrow-circle-up{
   font-size: 40px;
   color: #182125;
@@ -325,5 +390,83 @@ footer{
   height: 50px;
   background-color: #182125;
   color:white;
-  font-family: 'franklin gothic book', sans-serif;
+  font-family: 'Lato', sans-serif;
+}
+.mentionsh1{
+  font-family: 'lato', sans-serif;
+  font-size: 28px;
+  letter-spacing: 2px;
+  color: #182125;
+  margin-bottom: 30px;
+}
+
+.mentionsh2{
+  font-family: 'lato', sans-serif;
+  letter-spacing: 2px;
+  color: #182125;
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+.mentionsp{
+  font-family: 'lato', sans-serif;
+  color: #182125;
+  font-size: 15px;
+}
+
+.liensmentionslegales{
+  color:white;
+}
+
+.liensmentions{
+  color: #182125;
+}
+
+.liensmentions:hover{
+  color: #43684c;
+}
+
+.mentions{
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.imgmentions{
+  border-radius: 300px;
+  width: 300px;
+  display: block;
+  position: fixed;
+  top:100px;
+  right: 100px;
+}
+
+.textementions{
+  position: fixed;
+  top: 300px;
+  right: 100px;
+}
+
+.lucasdaboutmentions{
+  font-size: 60px;
+  font-family: 'bebas neue', sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+.etudiantmentions{
+  margin: 0;
+  text-align: center;
+  font-size: 60px;
+  font-family: 'allura', sans-serif;
+}
+
+.mentionsrond{
+  position: absolute;
+  z-index: 10;
+  right: 30px;
+  top: 30px;
+  height: 500px;
+  width: 500px;
+  background-color: white;
+  border-radius: 500px;
 }
