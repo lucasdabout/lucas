@@ -13,7 +13,7 @@
     <div class="mentionsrond">
 
 
-    <img class="imgmentions"src="C:\Users\Lucas Dabout\Documents\GitHub\lucas\siteweb-main\images\DSC05727.JPG" alt="">
+    <img class="imgmentions"src="images\DSC05727.JPG" alt="">
     <div class="textementions">
     <p class="lucasdaboutmentions">Lucas Dabout</p>
     <p class="etudiantmentions">étudiant</p>

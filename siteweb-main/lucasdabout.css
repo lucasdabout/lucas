@@ -18,7 +18,7 @@ body{
   width: 200px;
   border-radius: 100px;
   margin: auto;
-  background-image: url(images/DSC05727.jpg);
+  background-image: url(images\DSC05727.jpg);
   background-size: cover;
   box-shadow: 4px 0px 10px black;
 }

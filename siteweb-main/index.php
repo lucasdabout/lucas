@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="lucasdabout.css">
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Allura&display=swap" rel="stylesheet">
-    <link rel="icon" href="images/logo.ico"/>
+    <link rel="icon" href="images\logo.ico"/>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/ff64834a9a.js" crossorigin="anonymous"></script>
