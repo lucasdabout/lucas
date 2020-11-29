@@ -2,8 +2,8 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="..\lucasdabout.css">
-    <link rel="icon" href="..\logo.ico"/>
+    <link rel="stylesheet" href="../lucasdabout.css">
+    <link rel="icon" href="../images/logo.ico"/>
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Allura&display=swap" rel="stylesheet">
     <title>Mentions Légales</title>
@@ -13,7 +13,7 @@
     <div class="mentionsrond">
 
 
-    <img class="imgmentions"src="images\DSC05727.JPG" alt="">
+    <img class="imgmentions"src="../images/DSC05727.JPG" alt="">
     <div class="textementions">
     <p class="lucasdaboutmentions">Lucas Dabout</p>
     <p class="etudiantmentions">étudiant</p>
