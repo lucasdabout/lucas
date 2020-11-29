@@ -37,7 +37,7 @@
         <h2 class="mentionsh2">Cookies</h2>
           <p class="mentionsp">Aucun cookie interne ou tierce n'est utilisé sur ce site.</p>
 	<h2 class="mentionsh2">Conformité</h2>
-          <p class="mentionsp">Les textes HTML et CSS ont été validées sur le site <a class="liensmentions" 	href="https://validator.w3.org/">W3C</a></p>
+          <p class="mentionsp">Les textes HTML et CSS ont été validés sur le site <a class="liensmentions" 	href="https://validator.w3.org/">W3C</a></p>
 	<h2 class="mentionsh2">Copyright</h2>
           <p class="mentionsp">Ce site respecte le droit d'auteur.</p>
           <p class="mentionsp">Toute reproduction, rediffusion ou commercialisation totales ou partielles du contenu est interdite.</p>

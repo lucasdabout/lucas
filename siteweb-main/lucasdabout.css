@@ -458,15 +458,15 @@ footer{
   border-radius: 300px;
   width: 300px;
   display: block;
-  position: fixed;
-  top:100px;
+  margin-top:10%;
+  margin-left: auto;
+  margin-bottom: auto;
+  margin-right: auto;
   right: 100px;
 }
 
 .textementions{
-  position: fixed;
-  top: 300px;
-  right: 100px;
+  margin-top: 10%;
 }
 
 .lucasdaboutmentions{
