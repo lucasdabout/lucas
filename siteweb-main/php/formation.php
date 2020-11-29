@@ -1,6 +1,6 @@
 <div class="box_formation">
   <div class="formation_gauche">
-    <img class="logosupavenir"src="images\supavenir.png" alt="">
+    <img class="logosupavenir"src="images\supavenir.svg" alt="">
     <p class="formation_gauche_texte"><strong>BTS Services Informatique aux Organisations<br></strong><em>Lycée Sainte Ursule</em> <br>Caen, Normandie</p>
   </div>
   <div class="formation_droite">

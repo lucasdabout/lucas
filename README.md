@@ -33,5 +33,4 @@ Mon [site](lucas-dabout.herokuapp.com) déployé sur Heroku
 * [Atom](https://atom.io/) - Editeur de textes
 
 ## Auteurs
-Listez le(s) auteur(s) du projet ici !
-* **Lucas Dabout** _alias_ [@lucasdabout](https://github.com/lucasdabout)
+* Lucas Dabout** _alias_ [@lucasdabout](https://github.com/lucasdabout)
