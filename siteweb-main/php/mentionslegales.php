@@ -27,7 +27,8 @@
       <h1 class="mentionsh1">Mentions Légales</h1>
         <h2 class="mentionsh2">Informations générales</h2>
           <p class="mentionsp">Responsable de la publication : <strong>Lucas Dabout</strong> - <a class="liensmentions" href="mailto:lucasdabout@outlook.fr">lucasdabout@outlook.fr</a></p>
-          <p class="mentionsp">Rédaction des parties, photos : Le Studio Photography</p>
+          <p class="mentionsp">Rédaction des parties: Lucas Dabout</p>
+          <p class="mentionsp">Photographie : Le Studio Photography</p>
           <p class="mentionsp">Création de site internet : <strong>Lucas Dabout</strong></p>
           <p class="mentionsp">Création graphique du site internet : <strong>Lucas Dabout</strong></p>
           <p class="mentionsp">Le site <a class="liensmentions" href="http://lucas-dabout.herokuapp.com/">https://lucas-dabout.herokuapp.com</a> est hébergé par : <a class="liensmentions" href="https://www.heroku.com/">Heroku</a></p>
