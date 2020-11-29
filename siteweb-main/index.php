@@ -78,7 +78,6 @@
        ?>
 
     </a>
-    <a href="index.php"> <i class="fas fa-arrow-circle-up"></i></a>
     <footer>
       <a class="liensmentionslegales" href="php/mentionslegales.php">Mentions légales</a> - © 2020 réalisé par Lucas Dabout - Étudiant - BTS SIO
     </footer>
