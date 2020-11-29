@@ -26,11 +26,16 @@ Pour cloner mon repository sur GitHub
 Mon [site](lucas-dabout.herokuapp.com) déployé sur Heroku
 
 
-## Fabriqué avec
+### Fabriqué avec
 
 * [Codes Couleurs HTML](https://htmlcolorcodes.com/fr/) - Sélecteur de couleurs (front-end)
 * [Googles Fonts](https://fonts.google.com/) - Hébergement gratuit de polices d'écritures
 * [Atom](https://atom.io/) - Editeur de textes
 
-## Auteurs
+### Contenu
+
+Je n'ai pas mis les liens vers mes réseaux, car ils ne sont pas profesionnels. 
+Je n'ai pas mis d'expérience, car je n'ai jamais eu d'expérience dans le domaine de l'informatique.
+
+### Auteurs
 * Lucas Dabout** _alias_ [@lucasdabout](https://github.com/lucasdabout)
