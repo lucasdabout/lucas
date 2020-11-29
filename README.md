@@ -8,34 +8,23 @@
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
 
 
-Une petite description du projet
+Ce site est une sorte de "CV" en ligne, qui regroupe ma description, mes compétences en informatique, mes expériences ainsi que ma formation actuelle. 
 
-## Pour commencer
-
-Entrez ici les instructions pour bien débuter avec votre projet...
 
 ### Pré-requis
 
-Ce qu'il est requis pour commencer avec votre projet...
+- GitHub Desktop
 
-- Programme 1
-- Programme 2
-- etc...
 
 ### Installation
 
-Les étapes pour installer votre programme....
+Pour cloner mon repository sur GitHub
+* Dans File --> Clone repository...
+* Dans URL --> https://github.com/lucasdabout/lucas.git
+* Choisir la destination du clone --> Local path
 
-Dites ce qu'il faut faire...
+Mon [site](lucas-dabout.herokuapp.com) déployé sur Heroku
 
-_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
-
-
-Ensuite vous pouvez montrer ce que vous obtenez au final...
-
-## Démarrage
-
-Dites comment faire pour lancer votre projet
 
 ## Fabriqué avec
 
