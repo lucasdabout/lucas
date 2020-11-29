@@ -19,6 +19,14 @@
     <title>Lucas Dabout</title>
   </head>
   <body>
+
+
+    <div class="reseaux">
+      <i class="fab fa-twitter"></i>
+      <i class="fab fa-linkedin-in"></i>
+      <i class="fab fa-instagram"></i>
+      <a href="index.php"> <i class="fas fa-arrow-circle-up"></i></a>
+    </div>
     <div class="bande_verte">
       <div class="boite_ronde"></div>
       <div class="bande_noire"></div>

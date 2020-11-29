@@ -3,6 +3,59 @@ body{
   background-color: #829C79;
 }
 
+.reseaux{
+  z-index: 10;
+  width: 2%;
+  height: 130px;
+  position: fixed;
+  top: 50%;
+  left: 10px;
+  background-color: white;
+  margin: auto;
+  text-align: center;
+  line-height: 32.5px;
+  box-shadow: 0px 2px 10px black;
+  border-radius: 10px;
+}
+
+.fa-arrow-circle-up{
+  text-decoration: none;
+  color: black;
+  display: block;
+}
+
+.fa-arrow-circle-up:hover{
+  color: #829C79;
+}
+
+.fa-twitter{
+  display: block;
+}
+
+.fa-twitter:hover{
+  color:#00acee;
+}
+
+
+.fa-instagram{
+display: block;
+width: 100%;
+}
+
+.fa-instagram:hover{
+  color: #cd486b;
+}
+
+.fa-linkedin-in{
+  display: block;
+}
+
+.fa-linkedin-in:hover{
+  color:#0e76a8;
+}
+
+
+
 .bande_verte{
   height: 250px;
   background-color: #43684c;
@@ -385,15 +438,6 @@ textarea{
   font-size: 30px;
 }
 
-.fa-arrow-circle-up{
-  font-size: 40px;
-  color: #182125;
-  position:fixed;
-  top : 50%;
-  left:45%;
-  margin-left: 50%;
-  z-index: 10;
-}
 
 .fa-quote-left{
   margin-left: 5%;

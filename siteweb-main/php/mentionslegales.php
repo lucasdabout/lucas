@@ -27,16 +27,18 @@
       <h1 class="mentionsh1">Mentions Légales</h1>
         <h2 class="mentionsh2">Informations générales</h2>
           <p class="mentionsp">Responsable de la publication : <strong>Lucas Dabout</strong> - <a class="liensmentions" href="mailto:lucasdabout@outlook.fr">lucasdabout@outlook.fr</a></p>
-          <p class="mentionsp">Rédaction des parties: Lucas Dabout</p>
+          <p class="mentionsp">Rédaction des parties : Lucas Dabout</p>
           <p class="mentionsp">Photographie : Le Studio Photography</p>
           <p class="mentionsp">Création de site internet : <strong>Lucas Dabout</strong></p>
           <p class="mentionsp">Création graphique du site internet : <strong>Lucas Dabout</strong></p>
-          <p class="mentionsp">Le site <a class="liensmentions" target="_blank" href="http://lucas-dabout.herokuapp.com/">https://lucas-dabout.herokuapp.com</a> est hébergé par : <a class="liensmentions" href="https://www.heroku.com/">Heroku target="_blank"</a></p>
+          <p class="mentionsp">Le site <a class="liensmentions" target="_blank" href="http://lucas-dabout.herokuapp.com/">https://lucas-dabout.herokuapp.com</a> est hébergé par : <a class="liensmentions" href="https://www.heroku.com/" target="_blank">Heroku</a></p>
           <p class="mentionsp">Propriétaire : <strong>Lucas Dabout</strong> - Étudiant - <a target="_blank" class="liensmentions" href="https://www.lycee-sainte-ursule.fr/bts-services-informatiques-aux-organisations.html">BTS SIO</a></p>
         <h2 class="mentionsh2">Utilisation des informations contenues dans le site</h2>
           <p class="mentionsp">Les documents et informations ne peuvent être modifiés de quelque manière que ce soit</p>
         <h2 class="mentionsh2">Cookies</h2>
           <p class="mentionsp">Aucun cookie interne ou tierce n'est utilisé sur ce site.</p>
+	<h2 class="mentionsh2">Confidentialité</h2>
+	  <p>Ce site ne collecte aucune donnée nominative à votre insu. Votre adresse mail ne sera pas conservée à des 	  	  fins commerciales ou statistiques, elle servira uniquement à vous recontacter.</p>
 	<h2 class="mentionsh2">Conformité</h2>
           <p class="mentionsp">Les textes HTML et CSS ont été validés sur le site <a class="liensmentions" 	href="https://validator.w3.org/" target="_blank">W3C</a></p>
 	<h2 class="mentionsh2">Copyright</h2>
