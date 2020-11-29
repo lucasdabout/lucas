@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="..\lucasdabout.css">
-    <link rel="icon" href="images\logo.ico"/>
+    <link rel="icon" href="..\logo.ico"/>
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Allura&display=swap" rel="stylesheet">
     <title>Mentions Légales</title>
