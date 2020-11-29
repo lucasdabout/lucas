@@ -190,6 +190,23 @@ li{
   text-align:center;
 }
 
+.hovervoir{
+  opacity: 0;
+  background-color: none;
+  display: block;
+  margin: 0;
+  width: 250px;
+  height: 40px;
+  line-height: 40px;
+  position: absolute;
+  font-family: 'lato', sans-serif;
+  font-weight: bold;
+}
+
+.hovervoir:hover{
+  opacity: 1;
+}
+
 .pourcent_texte{
   font-family: 'lato', sans-serif;
 }
