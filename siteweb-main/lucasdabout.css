@@ -127,6 +127,11 @@ li{
   text-align: center;
 }
 
+.hovervoir:hover{
+  opacity:1;
+}
+
+
 .progress_bar_html{
   display: inline-block;
   border-radius: 5px;
@@ -165,6 +170,7 @@ li{
   height: 40px;
   width: 250px;
   background-color: white;
+  opacity:1;
 }
 
 .pourcent_oral{
