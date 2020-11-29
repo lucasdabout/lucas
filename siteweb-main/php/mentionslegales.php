@@ -34,7 +34,11 @@
           <p class="mentionsp">Propriétaire : <strong>Lucas Dabout</strong> - Étudiant - <a class="liensmentions" href="https://www.lycee-sainte-ursule.fr/bts-services-informatiques-aux-organisations.html">BTS SIO</a></p>
         <h2 class="mentionsh2">Utilisation des informations contenues dans le site</h2>
           <p class="mentionsp">Les documents et informations ne peuvent être modifiés de quelque manière que ce soit</p>
-        <h2 class="mentionsh2">Copyright</h2>
+        <h2 class="mentionsh2">Cookies</h2>
+          <p class="mentionsp">Aucun cookie interne ou tierce n'est utilisé sur ce site.</p>
+	<h2 class="mentionsh2">Conformité</h2>
+          <p class="mentionsp">Les textes HTML et CSS ont été validées sur le site <a class="liensmentions" 	href="https://validator.w3.org/">W3C</a></p>
+	<h2 class="mentionsh2">Copyright</h2>
           <p class="mentionsp">Ce site respecte le droit d'auteur.</p>
           <p class="mentionsp">Toute reproduction, rediffusion ou commercialisation totales ou partielles du contenu est interdite.</p>
           <p class="mentionsp">Tous les droits de reproduction, de représentation et de communication publique sont réservés, y compris pour les représentations visuelles.</p>
