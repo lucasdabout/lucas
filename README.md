@@ -38,7 +38,7 @@ Mon [site](lucas-dabout.herokuapp.com) déployé sur Heroku
 
 ### Contenu
 
-Je n'ai pas mis les liens vers mes réseaux, car ils ne sont pas profesionnels. 
+Je n'ai pas mis les liens vers mes réseaux, car ils ne sont pas professionnels. 
 Je n'ai pas mis d'expérience, car je n'ai jamais eu d'expérience dans le domaine de l'informatique.
 
 ### Auteurs
