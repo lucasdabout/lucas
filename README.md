@@ -31,6 +31,10 @@ Mon [site](lucas-dabout.herokuapp.com) déployé sur Heroku
 * [Codes Couleurs HTML](https://htmlcolorcodes.com/fr/) - Sélecteur de couleurs (front-end)
 * [Googles Fonts](https://fonts.google.com/) - Hébergement gratuit de polices d'écritures
 * [Atom](https://atom.io/) - Editeur de textes
+* [GitHub Desktop](https://desktop.github.com/) - Flux de travail et développement 
+* [Xampp](https://www.apachefriends.org/fr/index.html) - Environnement de développement PHP
+
+
 
 ### Contenu
 
